@@ -11,7 +11,7 @@
       "coffee-script":"*"
    },
    "devDependencies":{
-      "mocha":"*",
+      "mocha":">=3.5.3",
       "should":"*"
    },
    "scripts":{
